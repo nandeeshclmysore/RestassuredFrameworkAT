@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/RestAssuredAutomationTestingFramework_AT">
+        <classes>
+            <class name="org.appu.tests.curd.CreateBookingTest">
+            </class>
+        </classes>
+    </test>
+</suite>

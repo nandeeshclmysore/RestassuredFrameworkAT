@@ -1,0 +1,1 @@
+{"uuid":"c3a1bb11-991d-4514-aaa2-3fd44d06d397","name":"RestAssuredAutomationTestingFramework_AT","children":["0c00f97d-5807-4248-bf26-00482c2591cd"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1728561697919,"stop":1728561698576}],"afters":[],"start":1728561697892,"stop":1728561705612}

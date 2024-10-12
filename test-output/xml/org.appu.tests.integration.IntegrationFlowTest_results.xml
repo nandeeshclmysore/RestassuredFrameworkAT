@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/003J72744/Desktop/TestingAcademyAT/Workspace_AT/RestAssuredAutomationTestingFramework_AT/src/test/java/org/appu/tests/curd/CreateBookingTest.java"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.255">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validateGetAPI"
+                time="1.661"
+                classname="org.appu.tests.integration.IntegrationFlowTest">
+            </testcase>
+            <testcase
+                name="validateUpdateAPI"
+                time="1.594"
+                classname="org.appu.tests.integration.IntegrationFlowTest">
+            </testcase>
+</testsuite>
